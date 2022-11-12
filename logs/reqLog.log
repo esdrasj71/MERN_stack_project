@@ -76,3 +76,11 @@
 20221110	15:08:21	e1274fc5-448b-4ca5-9321-683a31ead2eb	DELETE	/users/	undefined
 20221110	15:08:34	0c231ba5-f89f-4a1a-95dc-96a69713897a	DELETE	/users/	undefined
 20221110	15:08:46	54e551b1-e5da-451d-b184-55e037768fbb	GET	/users/	undefined
+20221111	21:25:01	e6d496a1-d9be-44b5-9320-a76dd1475b9f	GET	/	undefined
+20221111	21:25:01	132c78ba-d7a2-4d38-832a-dbe4042b4ce7	GET	/css/style.css	undefined
+20221111	21:25:01	d0daa38f-a42c-4f2d-956f-23ed402a7242	GET	/favicon.ico	undefined
+20221111	21:26:04	9dd637f4-1f6b-40d4-9155-6a0658086d3a	GET	/	undefined
+20221111	21:26:04	90e86749-22eb-4acd-b148-184dd33b3b65	GET	/css/style.css	undefined
+20221111	21:47:28	5695288d-118a-4229-9617-f29287494bb7	GET	/	undefined
+20221111	21:47:28	ddb21ed2-20c8-4653-ab66-25fe12338a64	GET	/css/style.css	undefined
+20221111	21:47:36	9f569e92-bff7-4b37-bce3-545cabfff6dd	GET	/css/style.css	undefined
